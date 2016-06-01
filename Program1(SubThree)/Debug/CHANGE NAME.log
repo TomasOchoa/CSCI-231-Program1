@@ -1,0 +1,14 @@
+﻿Build started 9/26/2015 7:08:11 PM.
+     1>Project "E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SubThree)\CHANGE NAME.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling SubThree.asm...
+         cmd.exe /C "C:\Users\Ochoa\AppData\Local\Temp\tmpeaf7ca140455470cb53caa4b94e536ce.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SubThree.obj" /Fl"Program1(SubThree).lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaSubThree.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SubThree)\Debug\Program1(SubThree).exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\Irvine irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SubThree)\Debug\Program1(SubThree).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SubThree)\Debug\Program1(SubThree).lib" /MACHINE:X86 /SAFESEH:NO Debug\SubThree.obj
+         CHANGE NAME.vcxproj -> E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SubThree)\Debug\Program1(SubThree).exe
+     1>Done Building Project "E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SubThree)\CHANGE NAME.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06

@@ -1,0 +1,14 @@
+﻿Build started 9/26/2015 9:17:55 PM.
+     1>Project "E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SymbolicTextConstants)\CHANGE NAME.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling SymTxtConst.asm...
+         cmd.exe /C "C:\Users\Ochoa\AppData\Local\Temp\tmp9aa0cd83bab043eda690122d6c571d87.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\SymTxtConst.obj" /Fl"Symbolic Text Constants.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaSymTxtConst.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SymbolicTextConstants)\Debug\Symbolic Text Constants.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\Irvine irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SymbolicTextConstants)\Debug\Symbolic Text Constants.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SymbolicTextConstants)\Debug\Symbolic Text Constants.lib" /MACHINE:X86 /SAFESEH:NO Debug\SymTxtConst.obj
+         CHANGE NAME.vcxproj -> E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SymbolicTextConstants)\Debug\Symbolic Text Constants.exe
+     1>Done Building Project "E:\SUNY Oneonta\Fall 2015\Assembly Language Programming\Programs\Program 1\Program1(SymbolicTextConstants)\CHANGE NAME.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
